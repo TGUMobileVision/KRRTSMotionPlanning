@@ -1,0 +1,1 @@
+rosbag record   /drone_0_odom_visualization/velocity   /drone_0_ego_planner_node/a_traj_vel /drone_0_ego_planner_node/best_traj_vel /drone_0_ego_planner_node/first_traj_vel /drone_0_ego_planner_node/optimized_traj_vel /drone_0_ego_planner_node/orphan_vel /drone_0_planning/bspline /drone_0_planning/pos_cmd /visual_slam/odom
